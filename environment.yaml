@@ -1,0 +1,23 @@
+name: cs7643-groupproject
+channels:
+  - defaults
+dependencies:
+  - python==3.12
+  - numpy
+  - pyyaml
+  - matplotlib
+  - jupyter
+  - pytest
+  - tqdm
+  - opencv
+  - scikit-learn
+  - scikit-image
+  - imageio
+  - scipy
+  - pandas
+  - torchvision
+  - pip
+  - pip:
+    - torch
+    - torchtext
+
