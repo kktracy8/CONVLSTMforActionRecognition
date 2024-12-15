@@ -1,4 +1,4 @@
-# CS7643
+# CONVLSTMforActionRecognition
 
 * Dimensions:
 	* ConvLSTM: Loop ConvLSTMcell across each seq len (frames)
