@@ -12,3 +12,5 @@
 * The spatial dimension (height and width) after convolution operation needs to be maintained, as the gate data needs to be fixed in shape. Make sure to adjust padding accordingly for to maintain H,W after convolution with desired kernel size and stride.
 
 * Loss: CrossEntropy in default
+
+* salad50.py: data loader
